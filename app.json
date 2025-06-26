@@ -13,7 +13,7 @@
     },
     "android": {
       "package": "com.sumanshri.smartswitch",
-      "googleServicesFile": "./android/app/google-services.json",
+      "googleServicesFile": "./google-services.json",
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
@@ -38,7 +38,7 @@
         "expo-build-properties",
         {
           "android": {
-            "googleServicesFile": "./android/app/google-services.json"
+            "googleServicesFile": "./google-services.json"
           }
         }
       ]
